@@ -1,0 +1,29 @@
+[
+
+{"frontCard":"What continent has the fewest flowering plants?",
+"backCard": "antarctica",
+"fullAnswer": "Antarctica has the fewest flowering plants."
+},
+
+{"frontCard": "How many U.S. states border the Gulf of Mexico?",
+  "backCard": "5",
+  "fullAnswer": "Five U.S. states border the Gulf of Mexico."
+},
+
+{"frontCard":"Which explorer introduced pigs to North America?",
+  "backCard": "christopher colombus",
+  "fullAnswer": "Christopher Colombus introduced pigs to North America."
+},
+
+{"frontCard":"Which is the only American state to begin with the letter 'p' ?",
+  "backCard":"pennsylvania",
+  "fullAnswer": "Pennsylvania is the only American state to begin with the letter 'p'."
+
+},
+
+{ "frontCard":"Name the world's biggest island?",
+  "backCard": "greenland",
+  "fullAnswer": "Greenland is the world's biggest island."
+}
+
+]

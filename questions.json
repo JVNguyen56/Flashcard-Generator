@@ -1,0 +1,22 @@
+[
+{"cloze": "antarctica",
+"partial": "is the continent that has the fewest flowering plants.",
+"fullAnswer": "Antarctica is the continent that has the fewest flowering plants."},
+
+{"cloze":"5",
+"partial": "U.S. states border the Gulf of Mexico.",
+"fullAnswer": "Five U.S. states border the Gulf of Mexico."},
+
+{"cloze": "christopher colombus",
+"partial": "is the person who introduced pigs to North America.",
+"fullAnswer": "Christopher Colombus is the person who introduced pigs to North America."},
+
+{"cloze":"pennsylvania",
+"partial": "is the only American state to begin with the letter 'p'.",
+"fullAnswer": "Pennsylvania is the only American state to begin with the letter 'p'."},
+
+{"cloze":"greenland",
+"partial": "is the world's biggest island.",
+"fullAnswer": "Greenland is the world's biggest island."}
+
+]
