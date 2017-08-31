@@ -31,7 +31,7 @@ var askQuestions = function (){
         }//if
 
         else{
-          console.log("\nWrong!");
+          console.log("\nThat is incorrect!");
         }//else
 
   console.log(basicQuestions[counter].fullAnswer);
