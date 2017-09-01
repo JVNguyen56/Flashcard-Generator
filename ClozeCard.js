@@ -77,12 +77,12 @@ var askQuestions = function (){
   }; //closing function
 
   askQuestions();
-  var questionOneCloze = new ClozeCard("Antarctica", "is the continent that has the fewest flowering plants.");
+  var questionOneCloze = new ClozeCard("Big Top", "is a large tent used to house a circus.");
 
-  var questionTwoCloze = new ClozeCard("Five", "U.S. states border the Gulf of Mexico.")
+  var questionTwoCloze = new ClozeCard("Millennium", "is a time span of one thousand years.")
 
-  var questionThreeCloze = new ClozeCard("Christopher Colombus", "is the person who introduced pigs to North America.")
+  var questionThreeCloze = new ClozeCard("360", "degrees are found in a circle.")
 
-  var questionFourCloze = new ClozeCard("Pennsylvania", "is the only American state to begin with the letter 'p'.")
+  var questionFourCloze = new ClozeCard("64", "squares are found on a chess board.")
 
-  var questionFiveCloze = new ClozeCard("Greenland", "is the world's biggest island.")
+  var questionFiveCloze = new ClozeCard("Marilyn Monroe", "is commonly known as Norma Jean Baker.")

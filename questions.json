@@ -1,22 +1,22 @@
 [
-{"cloze": "antarctica",
-"partial": "is the continent that has the fewest flowering plants.",
-"fullAnswer": "Antarctica is the continent that has the fewest flowering plants."},
+{"cloze": "big tent",
+"partial": "is a large tent used to house a circus",
+"fullAnswer": "A Big Tent is a large tent used to house a circus."},
 
-{"cloze":"5",
-"partial": "U.S. states border the Gulf of Mexico.",
-"fullAnswer": "Five U.S. states border the Gulf of Mexico."},
+{"cloze":"millennium",
+"partial": "is a time span of one thousand years.",
+"fullAnswer": "A Millennium is a time span of one thousand years."},
 
-{"cloze": "christopher colombus",
-"partial": "is the person who introduced pigs to North America.",
-"fullAnswer": "Christopher Colombus is the person who introduced pigs to North America."},
+{"cloze": "360",
+"partial": "degrees are found in a circle.",
+"fullAnswer": "360 degrees are found in a circle."},
 
-{"cloze":"pennsylvania",
-"partial": "is the only American state to begin with the letter 'p'.",
-"fullAnswer": "Pennsylvania is the only American state to begin with the letter 'p'."},
+{"cloze":"64",
+"partial": "squares are found on a chess board.",
+"fullAnswer": "64 squares are found on a chess board."},
 
-{"cloze":"greenland",
-"partial": "is the world's biggest island.",
-"fullAnswer": "Greenland is the world's biggest island."}
+{"cloze":"marilyn monroe",
+"partial": "is commonly known as Norma Jean Baker.",
+"fullAnswer": "Marilyn Monroe is commonly known as Norma Jean Baker."}
 
 ]
